@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Webpack output
+/dist
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sass cache
+.sass-cache
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
